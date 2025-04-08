@@ -1,1 +1,1 @@
-# linux hakkinda temel bilgileri ve moleküler dinamik simülasyonları yürütülürken sıklıkla kullanılan komutları incelemek için "linux_temel_bilgiler" dosyasını inceleyiniz
+# linux çekirdeği ve işletim sistemleri hakkinda temel bilgileri ve moleküler dinamik simülasyonları yürütülürken sıklıkla kullanılan komutları incelemek için "linux_temel_bilgiler" dosyasını inceleyiniz
