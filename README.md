@@ -8,7 +8,7 @@ https://www.digitalocean.com/community/tutorials/linux-commands
 adreslerinden, yapay zeka araçlarından ya da herhangi bir internet sitesi üzerinden yapacağınız " linux en sık kullanılan komutlar // linux codes for beginners " aramalarıyla benzer bilgilere erişilebilir . 
 
 
-TÜBİTAK ULAKBİM tarafından Türkiye çapında açık bilim ve ilgili konularda farkındalık yaratmak, mevcut bilgi düzeyini artırmak, araştırmacıların proje süreçlerini kolaylaştırmak ve kamu fonlarıyla üretilen bilimsel içeriğin korunmasına katkıda bulunmak 1  amacıyla planlan https://acikders.ulakbim.gov.tr/ platformu açık bilim ve araştırma verilerinin yönetimi konusunda uzman akademisyenler tarafından hazırlanan çok kıymetli eğitimler içermektedir. Bunlardan bazıları;
+TÜBİTAK ULAKBİM tarafından Türkiye çapında açık bilim ve ilgili konularda farkındalık yaratmak, mevcut bilgi düzeyini artırmak, araştırmacıların proje süreçlerini kolaylaştırmak ve kamu fonlarıyla üretilen bilimsel içeriğin korunmasına katkıda bulunmak amacıyla planlan https://acikders.ulakbim.gov.tr/ platformu açık bilim ve araştırma verilerinin yönetimi konusunda uzman akademisyenler tarafından hazırlanan çok kıymetli eğitimler içermektedir. Bunlardan bazıları;
 
 High Throughput Virtual Screening with the AutoDOCK Vina Program (Sefer Baday (İTÜ)): https://acikders.ulakbim.gov.tr/course/view.php?id=27
 
