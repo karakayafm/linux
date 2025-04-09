@@ -21,4 +21,4 @@ Molecular Dynamics Simulations with LAMMPS (Hande Toffoli (ODTU)): https://acikd
 Başlangıç Düzeyinde Süper Bilgisayar Kullanımı (Ahmet Tuncer Durak (İTÜ)): https://acikders.ulakbim.gov.tr/course/view.php?id=32
 
 
-
+python aracılı uygulama eğitimleri https://pdb101.rcsb.org/train/training-events
