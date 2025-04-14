@@ -22,3 +22,8 @@ Başlangıç Düzeyinde Süper Bilgisayar Kullanımı (Ahmet Tuncer Durak (İTÜ
 
 
 python aracılı uygulama eğitimleri https://pdb101.rcsb.org/train/training-events
+
+
+
+BioEmu run in one
+https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/BioEmu.ipynb
